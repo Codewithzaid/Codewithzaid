@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Codewithzaid/Codewithzaid/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Md Zaid Alam</h1>
 <h3 align="center">I am an aspiring Frontend developer who loves to learn</h3>
 <img align="right"alt ="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
