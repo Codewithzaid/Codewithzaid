@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/zaidalam270" target="blank"><img src="https://img.shields.io/twitter/follow/zaidalam270?logo=twitter&style=for-the-badge" alt="zaidalam270" /></a> </p>
 
-- 🔭 I’m currently working on **Data Engineering Projects**
+- 🔭 I’m currently working on **Data Engineering and Analytics Projects**
 
 - 🌱 I’m currently learning **Linux,PySpark,Kafka**
 
-- 💬 Ask me about **Data Enginnering, Web development, cloud computing**
+- 💬 Ask me about **Data Enginnering, Web development, cloud and DevOps**
 
 - 📫 How to reach me **zaidalam.md24@gmail.com**
 
